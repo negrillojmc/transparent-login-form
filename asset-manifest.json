@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/transparent-login-form/static/css/main.a0cc67bc.css",
+    "main.css": "/transparent-login-form/static/css/main.046f5b64.css",
     "main.js": "/transparent-login-form/static/js/main.0612f7b7.js",
     "static/js/453.ff16f283.chunk.js": "/transparent-login-form/static/js/453.ff16f283.chunk.js",
     "static/media/Stanczyk.jpg": "/transparent-login-form/static/media/Stanczyk.7dd0390fc7c9358d5043.jpg",
     "index.html": "/transparent-login-form/index.html",
-    "main.a0cc67bc.css.map": "/transparent-login-form/static/css/main.a0cc67bc.css.map",
+    "main.046f5b64.css.map": "/transparent-login-form/static/css/main.046f5b64.css.map",
     "main.0612f7b7.js.map": "/transparent-login-form/static/js/main.0612f7b7.js.map",
     "453.ff16f283.chunk.js.map": "/transparent-login-form/static/js/453.ff16f283.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0cc67bc.css",
+    "static/css/main.046f5b64.css",
     "static/js/main.0612f7b7.js"
   ]
 }
